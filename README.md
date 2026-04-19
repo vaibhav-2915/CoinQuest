@@ -103,10 +103,3 @@ CoinQuest-MERN/
 └── README.md          # Project documentation
 ```
 
----
-
-## 📝 License
-This project is licensed under the ISC License.
-
----
-*CoinQuest — Empowering the next generation of financial masters.*
